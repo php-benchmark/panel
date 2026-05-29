@@ -35,3 +35,9 @@ resources/lang/locales.js
 /public/build
 /public/hot
 result
+
+# Ignore Claude local folder
+.claude/
+
+# Ignore spec files in this directory
+*.spec
